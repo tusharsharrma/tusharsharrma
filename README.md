@@ -22,12 +22,12 @@
 
 ## 🏆 Featured Projects
 
-### Markit (https://mark-it.netlify.app/)
+### Markit [Link](https://mark-it.netlify.app/)
 ▶️ An online markdown editor with realtime live preview  
 🛠️ Tech Stack: React, Javascript, vite, Css  
 📌 Key Features: Clean UI, Realtime preview
 
-### Codecloud [link](https://code-cloud.netlify.app/)
+### Codecloud [Link](https://code-cloud.netlify.app/)
 ▶️ A live web code editor with real-time preview functionality built using React.  
 🛠️ Tech Stack: Reacr, Vite, Javascript
 📌 Key Features: Triple-pane editor for HTML/CSS/JS, Real-time preview updates (1-second debounce)
