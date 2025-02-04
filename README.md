@@ -27,10 +27,10 @@
 🛠️ Tech Stack: React, Javascript, vite, Css  
 📌 Key Features: Clean UI, Realtime preview
 
-### [Project Name 2](project-link)
-▶️ Brief description of the project and your role  
-🛠️ Tech Stack: Next.js, Tailwind CSS, Firebase  
-📌 Key Features: Server-side rendering, authentication system, real-time updates
+### Codecloud [link](https://code-cloud.netlify.app/)
+▶️ A live web code editor with real-time preview functionality built using React.  
+🛠️ Tech Stack: Reacr, Vite, Javascript
+📌 Key Features: Triple-pane editor for HTML/CSS/JS, Real-time preview updates (1-second debounce)
 
 ## 📈 GitHub Stats
 
