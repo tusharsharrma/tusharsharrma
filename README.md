@@ -3,7 +3,7 @@
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%230077B5?style=flat&logo=react&logoColor=white)](your-portfolio-link)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/2ushaar/)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](your-github-link)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/tusharsharrma)
 
 ## 👨💻 Technical Skills
 
@@ -12,24 +12,20 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Styling & Design
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=Vite&logoColor=white)
+
 
 ## 🏆 Featured Projects
 
-### [Project Name 1](project-link)
-▶️ Brief description of the project and your role  
-🛠️ Tech Stack: React, TypeScript, Redux Toolkit, Sass  
-📌 Key Features: Responsive design, API integration, custom animations
+### Markit (https://mark-it.netlify.app/)
+▶️ An online markdown editor with realtime live preview  
+🛠️ Tech Stack: React, Javascript, vite, Css  
+📌 Key Features: Clean UI, Realtime preview
 
 ### [Project Name 2](project-link)
 ▶️ Brief description of the project and your role  
