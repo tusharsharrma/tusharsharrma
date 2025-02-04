@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋  
+# Hi there, I'm Tushar 👋  
 🚀 Frontend Developer specializing in creating responsive and functional web applications
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%230077B5?style=flat&logo=react&logoColor=white)](your-portfolio-link)
