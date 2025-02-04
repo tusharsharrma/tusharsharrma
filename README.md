@@ -32,18 +32,19 @@
 🛠️ Tech Stack: Reacr, Vite, Javascript
 📌 Key Features: Triple-pane editor for HTML/CSS/JS, Real-time preview updates (1-second debounce)
 
+<!--
 ## 📈 GitHub Stats
-
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](your-github-link)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](your-github-link)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](your-github-link) -->
 
 ## 🌱 Currently Learning
-- [ ] Advanced TypeScript patterns
+- [ ] Typrescript
 - [ ] Web performance optimization
 - [ ] Accessibility best practices
-- [ ] Three.js for 3D web experiences
+
 
 ## 💬 Let's Connect!
-📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)  
-💼 [LinkedIn](your-linkedin-link)  
-🌐 [Portfolio Website](your-portfolio-link)
+📫 Reach me at: [ttusharr.0@gmail.com](mailto:ttusharr.0@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/2ushaar/)  
+
+<!--🌐 [Portfolio Website](your-portfolio-link)-->
